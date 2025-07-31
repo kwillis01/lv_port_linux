@@ -193,7 +193,7 @@ int main(int argc, char **argv)
 
     /*Create a Demo*/
     lv_sysmon_hide_performance(NULL);
-    lv_demo_high_res_api_example("/usr/share/ti-lvgl-demo/assets/", "/usr/share/ti-lvgl-demo/assets/img_lv_demo_high_res_ti_logo.png", "/usr/share/ti-lvgl-demo/slides");
+    lv_demo_simple_high_res_api_example("/usr/share/ti-lvgl-demo/assets/img_lv_demo_simple_high_res_ti_logo.png");
 
     lv_linux_run_loop();
 
