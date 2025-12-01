@@ -6,7 +6,8 @@
 	url = https://github.com/littlevgl/lv_drivers.git
 [submodule "lvgl"]
 	path = lvgl
-	url = https://github.com/TexasInstruments/lvgl.git
+	url = https://github.com/kwillis01/ti-lvgl.git
+	branch = hmi-simple-demo
 [submodule "lv_demos"]
 	path = lv_demos
 	url = https://github.com/lvgl/lv_demos
